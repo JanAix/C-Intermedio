@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Documents\C# Intermedio .Net\Refactory\Refactory\bin\Debug\net8.0\Refactory.exe
+C:\Users\LENOVO\Documents\C# Intermedio .Net\Refactory\Refactory\bin\Debug\net8.0\Refactory.deps.json
+C:\Users\LENOVO\Documents\C# Intermedio .Net\Refactory\Refactory\bin\Debug\net8.0\Refactory.runtimeconfig.json
+C:\Users\LENOVO\Documents\C# Intermedio .Net\Refactory\Refactory\bin\Debug\net8.0\Refactory.dll
+C:\Users\LENOVO\Documents\C# Intermedio .Net\Refactory\Refactory\bin\Debug\net8.0\Refactory.pdb
+C:\Users\LENOVO\Documents\C# Intermedio .Net\Refactory\Refactory\obj\Debug\net8.0\Refactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\C# Intermedio .Net\Refactory\Refactory\obj\Debug\net8.0\Refactory.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\C# Intermedio .Net\Refactory\Refactory\obj\Debug\net8.0\Refactory.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\C# Intermedio .Net\Refactory\Refactory\obj\Debug\net8.0\Refactory.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\C# Intermedio .Net\Refactory\Refactory\obj\Debug\net8.0\Refactory.dll
+C:\Users\LENOVO\Documents\C# Intermedio .Net\Refactory\Refactory\obj\Debug\net8.0\refint\Refactory.dll
+C:\Users\LENOVO\Documents\C# Intermedio .Net\Refactory\Refactory\obj\Debug\net8.0\Refactory.pdb
+C:\Users\LENOVO\Documents\C# Intermedio .Net\Refactory\Refactory\obj\Debug\net8.0\Refactory.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\C# Intermedio .Net\Refactory\Refactory\obj\Debug\net8.0\ref\Refactory.dll
