@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\C# Intermedio\Practica OCP\Practica OCP\bin\Debug\net8.0\Practica OCP.exe
+C:\Users\LENOVO\source\repos\C# Intermedio\Practica OCP\Practica OCP\bin\Debug\net8.0\Practica OCP.deps.json
+C:\Users\LENOVO\source\repos\C# Intermedio\Practica OCP\Practica OCP\bin\Debug\net8.0\Practica OCP.runtimeconfig.json
+C:\Users\LENOVO\source\repos\C# Intermedio\Practica OCP\Practica OCP\bin\Debug\net8.0\Practica OCP.dll
+C:\Users\LENOVO\source\repos\C# Intermedio\Practica OCP\Practica OCP\bin\Debug\net8.0\Practica OCP.pdb
+C:\Users\LENOVO\source\repos\C# Intermedio\Practica OCP\Practica OCP\obj\Debug\net8.0\Practica OCP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\C# Intermedio\Practica OCP\Practica OCP\obj\Debug\net8.0\Practica OCP.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\C# Intermedio\Practica OCP\Practica OCP\obj\Debug\net8.0\Practica OCP.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\C# Intermedio\Practica OCP\Practica OCP\obj\Debug\net8.0\Practica OCP.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\C# Intermedio\Practica OCP\Practica OCP\obj\Debug\net8.0\Practica OCP.dll
+C:\Users\LENOVO\source\repos\C# Intermedio\Practica OCP\Practica OCP\obj\Debug\net8.0\refint\Practica OCP.dll
+C:\Users\LENOVO\source\repos\C# Intermedio\Practica OCP\Practica OCP\obj\Debug\net8.0\Practica OCP.pdb
+C:\Users\LENOVO\source\repos\C# Intermedio\Practica OCP\Practica OCP\obj\Debug\net8.0\Practica OCP.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\C# Intermedio\Practica OCP\Practica OCP\obj\Debug\net8.0\ref\Practica OCP.dll
