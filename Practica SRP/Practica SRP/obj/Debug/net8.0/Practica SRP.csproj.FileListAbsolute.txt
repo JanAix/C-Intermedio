@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\C# Intermedio\Practica SRP\Practica SRP\obj\Debug\net8.0\Practica SRP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\C# Intermedio\Practica SRP\Practica SRP\obj\Debug\net8.0\Practica SRP.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\C# Intermedio\Practica SRP\Practica SRP\obj\Debug\net8.0\Practica SRP.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\C# Intermedio\Practica SRP\Practica SRP\obj\Debug\net8.0\Practica SRP.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\C# Intermedio\Practica SRP\Practica SRP\bin\Debug\net8.0\Practica SRP.exe
+C:\Users\LENOVO\source\repos\C# Intermedio\Practica SRP\Practica SRP\bin\Debug\net8.0\Practica SRP.deps.json
+C:\Users\LENOVO\source\repos\C# Intermedio\Practica SRP\Practica SRP\bin\Debug\net8.0\Practica SRP.runtimeconfig.json
+C:\Users\LENOVO\source\repos\C# Intermedio\Practica SRP\Practica SRP\bin\Debug\net8.0\Practica SRP.dll
+C:\Users\LENOVO\source\repos\C# Intermedio\Practica SRP\Practica SRP\bin\Debug\net8.0\Practica SRP.pdb
+C:\Users\LENOVO\source\repos\C# Intermedio\Practica SRP\Practica SRP\obj\Debug\net8.0\Practica SRP.dll
+C:\Users\LENOVO\source\repos\C# Intermedio\Practica SRP\Practica SRP\obj\Debug\net8.0\refint\Practica SRP.dll
+C:\Users\LENOVO\source\repos\C# Intermedio\Practica SRP\Practica SRP\obj\Debug\net8.0\Practica SRP.pdb
+C:\Users\LENOVO\source\repos\C# Intermedio\Practica SRP\Practica SRP\obj\Debug\net8.0\Practica SRP.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\C# Intermedio\Practica SRP\Practica SRP\obj\Debug\net8.0\ref\Practica SRP.dll
