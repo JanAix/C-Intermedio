@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\C# Intermedio\RefactoryngGenerics\RefactoryngGenerics\obj\Debug\net8.0\RefactoryngGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\C# Intermedio\RefactoryngGenerics\RefactoryngGenerics\obj\Debug\net8.0\RefactoryngGenerics.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\C# Intermedio\RefactoryngGenerics\RefactoryngGenerics\obj\Debug\net8.0\RefactoryngGenerics.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\C# Intermedio\RefactoryngGenerics\RefactoryngGenerics\obj\Debug\net8.0\RefactoryngGenerics.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\C# Intermedio\RefactoryngGenerics\RefactoryngGenerics\bin\Debug\net8.0\RefactoryngGenerics.exe
+C:\Users\LENOVO\source\repos\C# Intermedio\RefactoryngGenerics\RefactoryngGenerics\bin\Debug\net8.0\RefactoryngGenerics.deps.json
+C:\Users\LENOVO\source\repos\C# Intermedio\RefactoryngGenerics\RefactoryngGenerics\bin\Debug\net8.0\RefactoryngGenerics.runtimeconfig.json
+C:\Users\LENOVO\source\repos\C# Intermedio\RefactoryngGenerics\RefactoryngGenerics\bin\Debug\net8.0\RefactoryngGenerics.dll
+C:\Users\LENOVO\source\repos\C# Intermedio\RefactoryngGenerics\RefactoryngGenerics\bin\Debug\net8.0\RefactoryngGenerics.pdb
+C:\Users\LENOVO\source\repos\C# Intermedio\RefactoryngGenerics\RefactoryngGenerics\obj\Debug\net8.0\RefactoryngGenerics.dll
+C:\Users\LENOVO\source\repos\C# Intermedio\RefactoryngGenerics\RefactoryngGenerics\obj\Debug\net8.0\refint\RefactoryngGenerics.dll
+C:\Users\LENOVO\source\repos\C# Intermedio\RefactoryngGenerics\RefactoryngGenerics\obj\Debug\net8.0\RefactoryngGenerics.pdb
+C:\Users\LENOVO\source\repos\C# Intermedio\RefactoryngGenerics\RefactoryngGenerics\obj\Debug\net8.0\RefactoryngGenerics.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\C# Intermedio\RefactoryngGenerics\RefactoryngGenerics\obj\Debug\net8.0\ref\RefactoryngGenerics.dll
