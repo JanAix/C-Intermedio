@@ -1,0 +1,12 @@
+C:\Users\LENOVO\source\repos\TaxiApp\TaxiData\bin\Debug\net8.0\Taxi.Data.deps.json
+C:\Users\LENOVO\source\repos\TaxiApp\TaxiData\bin\Debug\net8.0\Taxi.Data.dll
+C:\Users\LENOVO\source\repos\TaxiApp\TaxiData\bin\Debug\net8.0\Taxi.Data.pdb
+C:\Users\LENOVO\source\repos\TaxiApp\TaxiData\obj\Debug\net8.0\Taxi.Data.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\TaxiApp\TaxiData\obj\Debug\net8.0\Taxi.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\TaxiApp\TaxiData\obj\Debug\net8.0\Taxi.Data.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\TaxiApp\TaxiData\obj\Debug\net8.0\Taxi.Data.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\TaxiApp\TaxiData\obj\Debug\net8.0\Taxi.Data.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\TaxiApp\TaxiData\obj\Debug\net8.0\Taxi.Data.dll
+C:\Users\LENOVO\source\repos\TaxiApp\TaxiData\obj\Debug\net8.0\refint\Taxi.Data.dll
+C:\Users\LENOVO\source\repos\TaxiApp\TaxiData\obj\Debug\net8.0\Taxi.Data.pdb
+C:\Users\LENOVO\source\repos\TaxiApp\TaxiData\obj\Debug\net8.0\ref\Taxi.Data.dll
